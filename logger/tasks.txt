@@ -1,0 +1,33 @@
+INFO
+Debug
+Error
+Fatal
+
+------------
+
+Request_Http
+Request_Grpc
+
+-------------
+
++Time
++Status
++Req_Body
+Res_Body
++Key Headers (Public, Access(11111111******) , Signature(1111***********)
++AddSource
+
++Mimification
+
+-------------
+
+Decorator(start_log, traces, params)
+Уникальный
+
+
+
+CustomAttrs (AddAttr)
+NOSTRUCT? +
+
+ErrorHandle (Fatal)
+
